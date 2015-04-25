@@ -1,0 +1,15 @@
+PHPCS_BIN=/usr/bin/phpcs.phar
+
+PHPCBF_BIN=/usr/bin/phpcbf.phar
+
+PHPCS_CODING_STANDARD=/usr/bin/ruleset.xml
+
+PHPCS_IGNORE=
+
+PHPCS_SNIFFS=
+
+PHPCS_FILE_PATTERN="\.(php|phtml|html)$"
+
+PHPCS_IGNORE_WARNINGS=1
+
+PHPCS_ENCODING=utf-8
